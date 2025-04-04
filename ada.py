@@ -6,5 +6,3 @@ def ada():
     print(fullname.title())
     print(fullname.upper())
     print('\t'+fullname.lower())
-
-ada()
